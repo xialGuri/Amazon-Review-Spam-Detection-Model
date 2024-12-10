@@ -1,4 +1,4 @@
-# Amazon-Review-Spam-Detection-Model
+# Amazon Review Spam Detection Model
 **Contributors**
 * Divyam Rana
 * Aaryan Bammi
