@@ -1,5 +1,6 @@
 # Amazon-Review-Spam-Detection-Model
-**Contributor**
+**Contributors**
 * Divyam Rana
 * Aaryan Bammi
 * Pushpraj singh
+* Donghyeon Na
