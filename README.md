@@ -1,5 +1,5 @@
 # Amazon-Review-Spam-Detection-Model
-## Contributor
+**Contributor**
 * Divyam Rana
 * Aaryan Bammi
 * Pushpraj singh
